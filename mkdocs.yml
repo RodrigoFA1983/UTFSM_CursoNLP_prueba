@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
-site_description:
+site_url: https://github.com/RodrigoFA1983/UTFSM_CursoNLP_prueba
+site_author: Rodrigo Fernandez Albornoz
+site_description: Curso de Introduccion al Procesamiento de Lenguaje Natual
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: RodrigoFA1983/UTFSM_CursoNLP_prueba
+repo_url: https://github.com/RodrigoFA1983/UTFSM_CursoNLP_prueba
 edit_uri: ''
 
 
@@ -84,10 +84,14 @@ plugins:
 # TOC
 nav:
     - Home: index.md
-    - Conceptos Básicos:
+    - 1 - El texto como dato :
         - intro.ipynb
         - basic.ipynb
-    - Manipulación Datos:
+    - 2- Modelos de representación de texto:
         - pandas.ipynb
         - seaborn.ipynb
+    - 3- Exploración de vectores de texto:
+        - pandas.ipynb
+        - seaborn.ipynb
+     
 
